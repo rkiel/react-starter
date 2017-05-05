@@ -1,0 +1,3 @@
+.message {
+  composes: primary from "../styles/colors.css";
+}

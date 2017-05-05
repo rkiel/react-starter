@@ -1,0 +1,3 @@
+.message {
+  composes: secondary from "../styles/colors.css";
+}
