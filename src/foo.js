@@ -8,6 +8,8 @@ function foo(bar) {
 
 
 
+  x = y;
+
   console.log(bar);
 
 }
